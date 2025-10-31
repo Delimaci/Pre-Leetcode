@@ -35,9 +35,9 @@ Welcome to **Dungeon LeetCode**, a series of beginner Python exercises designed 
 | Dungeon 5     | Upcoming                           | Locked 🔒     |
 | Dungeon 6     | Upcoming                           | Locked 🔒     |
 | Dungeon 7     | Upcoming                           | Locked 🔒     |
-| Dungeon 8     | Lists Intro                        | Locked 🔒     |
-| Dungeon 9     | Multiples Collector                | Locked 🔒     |
-| Dungeon 10    | Boss Fight — Full Score Calculation| Locked 🔒     |
+| Dungeon 8     | Upcoming                        | Locked 🔒     |
+| Dungeon 9     | Upcoming                | Locked 🔒     |
+| Dungeon 10    | Boss Fight — Upcoming    | Locked 🔒     |
 
 ---
 
