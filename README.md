@@ -8,7 +8,7 @@ Welcome to **Dungeon LeetCode**, a series of beginner Python exercises designed 
 
 ---
 
-## 🗺️ Dungeon Map
+## 🗺️ FizzBuzz Dungeon Map
 
 | Dungeon       | Concept                            | Status        |
 |---------------|------------------------------------|---------------|
@@ -22,6 +22,22 @@ Welcome to **Dungeon LeetCode**, a series of beginner Python exercises designed 
 | Dungeon 8     | Lists Intro                        | Open ⚔️      |
 | Dungeon 9     | Multiples Collector                | Open ⚔️      |
 | Dungeon 10    | Boss Fight — Full FizzBuzz         | Open ⚔️      |
+
+---
+## 🗺️ Score of a String Dungeon Map
+
+| Dungeon       | Concept                            | Status        |
+|---------------|------------------------------------|---------------|
+| Dungeon 1     | Upcoming                           | Locked 🔒     |
+| Dungeon 2     | Upcoming                           | Locked 🔒     |
+| Dungeon 3     | Upcoming                           | Locked 🔒     |
+| Dungeon 4     | Upcoming                           | Locked 🔒     |
+| Dungeon 5     | Upcoming                           | Locked 🔒     |
+| Dungeon 6     | Upcoming                           | Locked 🔒     |
+| Dungeon 7     | Upcoming                           | Locked 🔒     |
+| Dungeon 8     | Lists Intro                        | Locked 🔒     |
+| Dungeon 9     | Multiples Collector                | Locked 🔒     |
+| Dungeon 10    | Boss Fight — Full Score Calculation| Locked 🔒     |
 
 ---
 
