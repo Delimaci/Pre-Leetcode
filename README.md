@@ -19,12 +19,12 @@ Welcome to **Dungeon LeetCode**, a series of beginner Python exercises designed 
 | Dungeon 5     | Fizz-only output                   | Open ⚔️      |
 | Dungeon 6     | Buzz-only output                   | Open ⚔️      |
 | Dungeon 7     | Fizz + Buzz combination            | Open ⚔️      |
-| Dungeon 8     | Pre-FizzBuzz preparation           | Open ⚔️      |
-| Dungeon 9     | Score of a String                  | Open ⚔️      |
-| Dungeon 10    | FizzBuzz                           | Open ⚔️      |
-| Boss Fight    | Full FizzBuzz                      | Open ⚔️      |
+| Dungeon 8     | Lists Intro                        | Open ⚔️      |
+| Dungeon 9     | Multiples Collector                | Open ⚔️      |
+| Dungeon 10    | Boss Fight — Full FizzBuzz         | Open ⚔️      |
 
 ---
+
 
 
 ## 📖 How to Play
