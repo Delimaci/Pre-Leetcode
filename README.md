@@ -1,12 +1,14 @@
 ![Dungeon LeetCode Banner](https://github.com/Delimaci/Pre-Leetcode/blob/main/assets/images/cover.jpg?raw=true)
 
-🏰 Dungeon LeetCode – Solo Leveling
+# 🏰 Dungeon LeetCode – Solo Leveling
 
-Status: In development ⚔️
+**Status:** In development ⚔️
 
-Welcome to Dungeon LeetCode, a series of beginner Python exercises designed like a solo RPG adventure to help you level up your coding skills, one dungeon at a time. Each dungeon introduces new concepts in loops, conditionals, lists, and counters, preparing you for the ultimate boss leetcode fight.
+Welcome to **Dungeon LeetCode**, a series of beginner Python exercises designed like a **solo RPG adventure** to help you level up your coding skills, one dungeon at a time. Each dungeon introduces new concepts in loops, conditionals, lists, and counters, preparing you for the ultimate boss LeetCode fight.
 
-🗺️ Dungeon Map
+---
+
+## 🗺️ Dungeon Map
 
 | Dungeon       | Concept                            | Status        |
 |---------------|------------------------------------|---------------|
@@ -22,5 +24,19 @@ Welcome to Dungeon LeetCode, a series of beginner Python exercises designed like
 | Dungeon 10    | Upcoming                           | Upcoming      |
 | Boss Fight    | Full FizzBuzz                      | Upcoming      |
 
+---
 
+## 📖 How to Play
 
+1. Clone the repository:  
+```bash
+git clone <repo-url>
+```
+2. Open a terminal and navigate to the dungeon folder you want to play.
+
+Run the Python file:
+```
+python3 dungeon1.py
+```
+
+Follow the prompts, defeat the dungeon, and level up!
