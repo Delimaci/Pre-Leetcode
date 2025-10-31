@@ -9,3 +9,5 @@ string = input("Enter a short string: \n")
 
 for c in range(len(string)):
   print(ord(string[c]))
+
+  

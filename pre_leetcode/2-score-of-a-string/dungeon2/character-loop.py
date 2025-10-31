@@ -7,7 +7,3 @@
 # Purpose: Teach iterating over strings and using ord() in preparation for calculating differences between ASCII values
 
 
-string = input("Enter a short string: \n")
-
-for c in range(len(string)):
-  print(ord(string[c]))
