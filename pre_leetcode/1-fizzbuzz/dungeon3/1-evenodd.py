@@ -10,10 +10,3 @@
 # c is odd
 # Do NOT use lists. Only the loop and if/else.
 
-n = int(input("What's your number?"))
-
-for c in range(1, n+1):
-  if c % 2 == 0:
-    print(f"{c} is even")
-  else:
-    print(f"{c} is odd")

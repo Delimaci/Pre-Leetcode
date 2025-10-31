@@ -15,17 +15,4 @@
 # Check divisible by 3 and 5 first! (i % 3 == 0 and i % 5 == 0)
 # Convert numbers to strings when appending numbers.
 
-n = int(input("Enter a number"))
 
-results = []
-for i in range(1, n+1):
-  if i % 3 == 0 and i % 5 == 0:
-    results.append("FizzBuzz")
-  elif i % 3 == 0:
-    results.append("Fizz")
-  elif i % 5 == 0:
-    results.append("Buzz")
-  else:
-    results.append(str(i))
-
-print(results)

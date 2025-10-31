@@ -12,13 +12,3 @@
 # The middle index can be calculated as len(list) // 2.
 # Access elements with square brackets: my_list[0], my_list[2], etc.
 
-list_numbers = input("Enter a list of numbers, separated by spaces: \n")
-
-numbers = list_numbers.split()
-
-for n in range(len(numbers)):
-  print(numbers[n])
-
-middle = len(numbers) // 2
-
-print(f"first number: {numbers[0]} middle number: {numbers[middle]}")

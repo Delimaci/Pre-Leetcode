@@ -14,16 +14,3 @@
 # Use modulo % to check divisibility
 # Don’t worry about numbers divisible by both 3 and 5 yet — that comes in Dungeon 10!
 
-n = int(input("Enter a number: \n" ))
-results = []
-
-
-for i in range(1, n+1):
-  if i % 3 == 0:
-    results.append("Fizz")
-  elif i % 5 == 0:
-    results.append("Buzz")
-  else:
-    results.append(str(i))
-
-print(results)

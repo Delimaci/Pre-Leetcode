@@ -11,10 +11,3 @@
 # Use if/else.
 # Don’t worry about 3 yet — that’s for the next dungeon.
 
-n = int(input("Enter your number: "))
-
-for n in range(1, n+1):
-  if n % 5 == 0:
-    print("Buzz")
-  else:
-    print(n)

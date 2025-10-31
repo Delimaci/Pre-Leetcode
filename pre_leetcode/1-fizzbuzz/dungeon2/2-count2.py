@@ -14,7 +14,3 @@
 # ...
 
 
-n = int(input("Enter your number"))
-
-for f in range(1, n+1):
-  print(f"Basket number: {f}")

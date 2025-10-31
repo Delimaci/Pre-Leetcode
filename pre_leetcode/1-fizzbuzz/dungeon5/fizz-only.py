@@ -14,10 +14,3 @@
 # No lists needed yet.
 
 
-n = int(input("Enter your number"))
-
-for c in range(1, n+1):
-  if c % 3 == 0:
-    print("Fizz")
-  else:
-    print(c)

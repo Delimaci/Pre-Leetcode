@@ -10,10 +10,3 @@
 # You must use a counter variable (like total or count) that increases when you find a divisible number.
 
 
-n = int(input("Enter your number: \n"))
-multiples = 0
-for c in range(1, n+1):
-  if c % 3 == 0:
-    multiples += 1
-
-print(f"There are {multiples} numbers divisible by 3.")
