@@ -28,8 +28,8 @@ Welcome to **Dungeon LeetCode**, a series of beginner Python exercises designed 
 
 | Dungeon       | Concept                            | Status        |
 |---------------|------------------------------------|---------------|
-| Dungeon 1     | Upcoming                           | Locked 🔒     |
-| Dungeon 2     | Upcoming                           | Locked 🔒     |
+| Dungeon 1     | Character values                           | Open ⚔️     |
+| Dungeon 2     | Character loop                           | Open ⚔️     |
 | Dungeon 3     | Upcoming                           | Locked 🔒     |
 | Dungeon 4     | Upcoming                           | Locked 🔒     |
 | Dungeon 5     | Upcoming                           | Locked 🔒     |
