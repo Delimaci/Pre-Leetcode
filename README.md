@@ -1,3 +1,5 @@
+![Dungeon LeetCode Banner](https://github.com/Delimaci/Pre-Leetcode/blob/main/assets/images/cover.jpg?raw=true)
+
 🏰 Dungeon LeetCode – Solo Leveling
 
 Status: In development ⚔️
@@ -19,3 +21,6 @@ Welcome to Dungeon LeetCode, a series of beginner Python exercises designed like
 | Dungeon 9     | Upcoming                           | Upcoming      |
 | Dungeon 10    | Upcoming                           | Upcoming      |
 | Boss Fight    | Full FizzBuzz                      | Upcoming      |
+
+
+
