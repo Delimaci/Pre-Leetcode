@@ -12,19 +12,20 @@ Welcome to **Dungeon LeetCode**, a series of beginner Python exercises designed 
 
 | Dungeon       | Concept                            | Status        |
 |---------------|------------------------------------|---------------|
-| Dungeon 1     | Counting from 1 to n               | In progress   |
-| Dungeon 2     | Themed print loops                 | In progress   |
-| Dungeon 3     | Even/Odd checker                   | In progress   |
-| Dungeon 4     | Counting numbers divisible by 3   | In progress   |
-| Dungeon 5     | Fizz-only output                   | In progress   |
-| Dungeon 6     | Buzz-only output                   | In progress   |
-| Dungeon 7     | Fizz + Buzz combination            | In progress   |
-| Dungeon 8     | Upcoming                           | Upcoming      |
-| Dungeon 9     | Upcoming                           | Upcoming      |
-| Dungeon 10    | Upcoming                           | Upcoming      |
-| Boss Fight    | Full FizzBuzz                      | Upcoming      |
+| Dungeon 1     | Counting from 1 to n               | Open ⚔️      |
+| Dungeon 2     | Themed print loops                 | Open ⚔️      |
+| Dungeon 3     | Even/Odd checker                   | Open ⚔️      |
+| Dungeon 4     | Counting numbers divisible by 3   | Open ⚔️      |
+| Dungeon 5     | Fizz-only output                   | Open ⚔️      |
+| Dungeon 6     | Buzz-only output                   | Open ⚔️      |
+| Dungeon 7     | Fizz + Buzz combination            | Open ⚔️      |
+| Dungeon 8     | Pre-FizzBuzz preparation           | Open ⚔️      |
+| Dungeon 9     | Score of a String                  | Open ⚔️      |
+| Dungeon 10    | FizzBuzz                           | Open ⚔️      |
+| Boss Fight    | Full FizzBuzz                      | Open ⚔️      |
 
 ---
+
 
 ## 📖 How to Play
 
