@@ -27,18 +27,18 @@ Welcome to **Dungeon LeetCode**, a series of beginner Python exercises designed 
 
 ## 🗺️ Score of a String Dungeon Map
 
-| Dungeon    | Concept               | Status    |
-| ---------- | --------------------- | --------- |
-| Dungeon 1  | Character values      | Open ⚔️   |
-| Dungeon 2  | Character loop        | Open ⚔️   |
-| Dungeon 3  | Adjacent Differences  | Open ⚔️   |
-| Dungeon 4  | Total Score           | Open ⚔️   |
-| Dungeon 5  | Upcoming              | Locked 🔒 |
-| Dungeon 6  | Upcoming              | Locked 🔒 |
-| Dungeon 7  | Upcoming              | Locked 🔒 |
-| Dungeon 8  | Upcoming              | Locked 🔒 |
-| Dungeon 9  | Upcoming              | Locked 🔒 |
-| Dungeon 10 | Boss Fight — Upcoming | Locked 🔒 |
+| Dungeon    | Concept              | Status  |
+| ---------- | -------------------- | ------- |
+| Dungeon 1  | Character values     | Open ⚔️ |
+| Dungeon 2  | Character loop       | Open ⚔️ |
+| Dungeon 3  | Adjacent Differences | Open ⚔️ |
+| Dungeon 4  | Total Score          | Open ⚔️ |
+| Dungeon 5  | ASCII Sum            | Open ⚔️ |
+| Dungeon 6  | ASCII Avg            | Open ⚔️ |
+| Dungeon 7  | Diff lIST            | Open ⚔️ |
+| Dungeon 8  | Vowels               | Open ⚔️ |
+| Dungeon 9  | Partial Score        | Open ⚔️ |
+| Dungeon 10 | Boss Fight — SOAS    | Open ⚔️ |
 
 ---
 
