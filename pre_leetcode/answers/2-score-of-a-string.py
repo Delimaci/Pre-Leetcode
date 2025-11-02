@@ -11,3 +11,11 @@ for c in range(len(string)):
   print(ord(string[c]))
 
   
+# DUNGEON 3
+
+string = input("Enter a string at least 2 characters long: \n")
+
+for i in range(len(string) -1):
+  value = ord(string[i])
+  difference =  abs(ord(string[i]) - ord(string[i + 1]))
+  print(f"{string[i]} and {string[i+1]} difference: {difference}") 

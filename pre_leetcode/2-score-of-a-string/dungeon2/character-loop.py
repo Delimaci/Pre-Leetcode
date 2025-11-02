@@ -6,4 +6,3 @@
 # Task 4: Print the character along with its ASCII value
 # Purpose: Teach iterating over strings and using ord() in preparation for calculating differences between ASCII values
 
-

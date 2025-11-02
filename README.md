@@ -10,48 +10,50 @@ Welcome to **Dungeon LeetCode**, a series of beginner Python exercises designed 
 
 ## 🗺️ FizzBuzz Dungeon Map
 
-| Dungeon       | Concept                            | Status        |
-|---------------|------------------------------------|---------------|
-| Dungeon 1     | Counting from 1 to n               | Open ⚔️      |
-| Dungeon 2     | Themed print loops                 | Open ⚔️      |
-| Dungeon 3     | Even/Odd checker                   | Open ⚔️      |
-| Dungeon 4     | Counting numbers divisible by 3   | Open ⚔️      |
-| Dungeon 5     | Fizz-only output                   | Open ⚔️      |
-| Dungeon 6     | Buzz-only output                   | Open ⚔️      |
-| Dungeon 7     | Fizz + Buzz combination            | Open ⚔️      |
-| Dungeon 8     | Lists Intro                        | Open ⚔️      |
-| Dungeon 9     | Multiples Collector                | Open ⚔️      |
-| Dungeon 10    | Boss Fight — Full FizzBuzz         | Open ⚔️      |
+| Dungeon    | Concept                         | Status  |
+| ---------- | ------------------------------- | ------- |
+| Dungeon 1  | Counting from 1 to n            | Open ⚔️ |
+| Dungeon 2  | Themed print loops              | Open ⚔️ |
+| Dungeon 3  | Even/Odd checker                | Open ⚔️ |
+| Dungeon 4  | Counting numbers divisible by 3 | Open ⚔️ |
+| Dungeon 5  | Fizz-only output                | Open ⚔️ |
+| Dungeon 6  | Buzz-only output                | Open ⚔️ |
+| Dungeon 7  | Fizz + Buzz combination         | Open ⚔️ |
+| Dungeon 8  | Lists Intro                     | Open ⚔️ |
+| Dungeon 9  | Multiples Collector             | Open ⚔️ |
+| Dungeon 10 | Boss Fight — Full FizzBuzz      | Open ⚔️ |
 
 ---
+
 ## 🗺️ Score of a String Dungeon Map
 
-| Dungeon       | Concept                            | Status        |
-|---------------|------------------------------------|---------------|
-| Dungeon 1     | Character values                           | Open ⚔️     |
-| Dungeon 2     | Character loop                           | Open ⚔️     |
-| Dungeon 3     | Upcoming                           | Locked 🔒     |
-| Dungeon 4     | Upcoming                           | Locked 🔒     |
-| Dungeon 5     | Upcoming                           | Locked 🔒     |
-| Dungeon 6     | Upcoming                           | Locked 🔒     |
-| Dungeon 7     | Upcoming                           | Locked 🔒     |
-| Dungeon 8     | Upcoming                        | Locked 🔒     |
-| Dungeon 9     | Upcoming                | Locked 🔒     |
-| Dungeon 10    | Boss Fight — Upcoming    | Locked 🔒     |
+| Dungeon    | Concept               | Status    |
+| ---------- | --------------------- | --------- |
+| Dungeon 1  | Character values      | Open ⚔️   |
+| Dungeon 2  | Character loop        | Open ⚔️   |
+| Dungeon 3  | Adjacent Differences  | Open ⚔️   |
+| Dungeon 4  | Upcoming              | Locked 🔒 |
+| Dungeon 5  | Upcoming              | Locked 🔒 |
+| Dungeon 6  | Upcoming              | Locked 🔒 |
+| Dungeon 7  | Upcoming              | Locked 🔒 |
+| Dungeon 8  | Upcoming              | Locked 🔒 |
+| Dungeon 9  | Upcoming              | Locked 🔒 |
+| Dungeon 10 | Boss Fight — Upcoming | Locked 🔒 |
 
 ---
-
-
 
 ## 📖 How to Play
 
-1. Clone the repository:  
+1. Clone the repository:
+
 ```bash
 git clone <repo-url>
 ```
+
 2. Open a terminal and navigate to the dungeon folder you want to play.
 
 Run the Python file:
+
 ```
 python3 dungeon1.py
 ```
