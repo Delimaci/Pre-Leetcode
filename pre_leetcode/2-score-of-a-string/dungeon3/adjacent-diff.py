@@ -19,4 +19,3 @@
 # **Purpose:** This prepares you for the final calculation used in **Score of a String (LeetCode)**.
 
 
-

@@ -32,7 +32,7 @@ Welcome to **Dungeon LeetCode**, a series of beginner Python exercises designed 
 | Dungeon 1  | Character values      | Open ⚔️   |
 | Dungeon 2  | Character loop        | Open ⚔️   |
 | Dungeon 3  | Adjacent Differences  | Open ⚔️   |
-| Dungeon 4  | Upcoming              | Locked 🔒 |
+| Dungeon 4  | Total Score           | Open ⚔️   |
 | Dungeon 5  | Upcoming              | Locked 🔒 |
 | Dungeon 6  | Upcoming              | Locked 🔒 |
 | Dungeon 7  | Upcoming              | Locked 🔒 |
