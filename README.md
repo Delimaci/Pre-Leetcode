@@ -31,7 +31,7 @@ Welcome to **Dungeon LeetCode**, a series of beginner Python exercises designed 
 | Dungeon 10 | Boss Fight — Full FizzBuzz      | Open ⚔️ |
 
 ---
-
+<a name="score-of-a-string-dungeon-map"></a>
 ## 🗺️ Score of a String Dungeon Map
 
 | Dungeon    | Concept              | Status  |
@@ -48,7 +48,7 @@ Welcome to **Dungeon LeetCode**, a series of beginner Python exercises designed 
 | Dungeon 10 | Boss Fight — SOAS    | Open ⚔️ |
 
 ---
-
+<a name="palindrome-number"></a>
 ## 🗺️ Palindrome Number
 
 | Dungeon   | Concept                        | Status  |
@@ -56,7 +56,7 @@ Welcome to **Dungeon LeetCode**, a series of beginner Python exercises designed 
 | Dungeon 1 | Boss Fight - Palindrome Number | Open ⚔️ |
 
 ---
-
+<a name="how-to-play"></a>
 ## 📖 How to Play
 
 1. Clone the repository:
