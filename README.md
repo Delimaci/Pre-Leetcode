@@ -8,6 +8,15 @@ Welcome to **Dungeon LeetCode**, a series of beginner Python exercises designed 
 
 ---
 
+## 📑 Table of Contents
+
+1. [FizzBuzz Dungeon Map](#fizzbuzz-dungeon-map)
+2. [Score of a String Dungeon Map](#score-of-a-string-dungeon-map)
+3. [Palindrome Number](#palindrome-number)
+4. [How to Play](#how-to-play)
+
+---
+
 ## 🗺️ FizzBuzz Dungeon Map
 
 | Dungeon    | Concept                         | Status  |
@@ -39,6 +48,14 @@ Welcome to **Dungeon LeetCode**, a series of beginner Python exercises designed 
 | Dungeon 8  | Vowels               | Open ⚔️ |
 | Dungeon 9  | Partial Score        | Open ⚔️ |
 | Dungeon 10 | Boss Fight — SOAS    | Open ⚔️ |
+
+---
+
+## 🗺️ Palindrome Number
+
+| Dungeon   | Concept                        | Status  |
+| --------- | ------------------------------ | ------- |
+| Dungeon 1 | Boss Fight - Palindrome Number | Open ⚔️ |
 
 ---
 
