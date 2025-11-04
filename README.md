@@ -8,10 +8,14 @@ Welcome to **Dungeon LeetCode**, a series of beginner Python exercises designed 
 
 ## 📑 Table of Contents
 
-1. [FizzBuzz Dungeon Map](#fizzbuzz-dungeon-map)
-2. [Score of a String Dungeon Map](#score-of-a-string-dungeon-map)
-3. [Palindrome Number](#palindrome-number)
-4. [How to Play](#how-to-play)
+| Level | Name                          | Difficulty | Status  |
+| ----- | ----------------------------- | ---------- | ------- |
+| 1     | [FizzBuzz Dungeon Map](#fizzbuzz-dungeon-map)          | Easy       | Open ⚔️ |
+| 2     | [Score of a String Dungeon Map](#score-of-a-string-dungeon-map) | Easy       | Open ⚔️ |
+| 3     | [Palindrome Number](#palindrome-number)             | Easy       | Open ⚔️ |
+| 4     | [How to Play](#how-to-play)                   | Easy       | Open ⚔️ |
+
+
 
 ---
 <a name="fizzbuzz-dungeon-map"></a>
