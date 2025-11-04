@@ -14,7 +14,7 @@ Welcome to **Dungeon LeetCode**, a series of beginner Python exercises designed 
 4. [How to Play](#how-to-play)
 
 ---
-
+<a name="fizzbuzz-dungeon-map"></a>
 ## 🗺️ FizzBuzz Dungeon Map
 
 | Dungeon    | Concept                         | Status  |
