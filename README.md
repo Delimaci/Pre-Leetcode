@@ -66,7 +66,7 @@ Welcome to **Dungeon LeetCode**, a series of beginner Python exercises designed 
 1. Clone the repository:
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/Delimaci/Pre-Leetcode
 ```
 
 2. Open a terminal and navigate to the dungeon folder you want to play.
