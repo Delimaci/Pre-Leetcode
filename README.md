@@ -71,7 +71,7 @@ git clone https://github.com/Delimaci/Pre-Leetcode
 
 2. Open a terminal and navigate to the dungeon folder you want to play.
 
-Run the Python file, e.g. for Fizzbuzz first dungeon, run: e.g. Fizzbuzz dungeon 1, run:
+Run the Python file, e.g. for Fizzbuzz first dungeon, run:
 
 ```
 python3 1-count.py
