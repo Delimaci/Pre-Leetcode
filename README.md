@@ -74,7 +74,7 @@ git clone https://github.com/Delimaci/Pre-Leetcode
 Run the Python file:
 
 ```
-python3 dungeon1.py
+e.g. Fizzbuzz dungeon 1, run: python3 1-count.py
 ```
 
 Follow the prompts, defeat the dungeon, and level up!
