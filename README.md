@@ -13,7 +13,7 @@ Welcome to **Dungeon LeetCode**, a series of beginner Python exercises designed 
 | 1     | [FizzBuzz Dungeon Map](#fizzbuzz-dungeon-map)          | Easy       | Open ⚔️ |
 | 2     | [Score of a String Dungeon Map](#score-of-a-string-dungeon-map) | Easy       | Open ⚔️ |
 | 3     | [Palindrome Number](#palindrome-number)             | Easy       | Open ⚔️ |
-| 4     | [How to Play](#how-to-play)                   |        |  |
+|      | [How to Play](#how-to-play)                   |        |  |
 
 
 
