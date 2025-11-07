@@ -13,6 +13,8 @@ Welcome to **Dungeon LeetCode**, a series of beginner Python exercises designed 
 | 1     | [FizzBuzz Dungeon Map](#fizzbuzz-dungeon-map)                   | Easy       | Open ⚔️ |
 | 2     | [Score of a String Dungeon Map](#score-of-a-string-dungeon-map) | Easy       | Open ⚔️ |
 | 3     | [Palindrome Number](#palindrome-number)                         | Easy       | Open ⚔️ |
+| 4     | [To Lower Case](#to-lower-case)                                 | Easy       | Open ⚔️ |
+| 5     | [Add Two Integers](#add-two-integers)                           | Easy       | Open ⚔️ |
 |       | [How to Play](#how-to-play)                                     |            |         |
 
 ---
@@ -71,8 +73,6 @@ Welcome to **Dungeon LeetCode**, a series of beginner Python exercises designed 
 | --------- | ----------------- | ------- |
 | Dungeon 1 | String conversion | Open ⚔️ |
 
-> Given a string `s`, convert all uppercase letters to lowercase.
-
 ---
 
 ## 🗺️ Add Two Integers
@@ -80,8 +80,6 @@ Welcome to **Dungeon LeetCode**, a series of beginner Python exercises designed 
 | Dungeon   | Concept    | Status  |
 | --------- | ---------- | ------- |
 | Dungeon 1 | Basic math | Open ⚔️ |
-
-> Given two integers `num1` and `num2`, return their sum.
 
 ---
 
