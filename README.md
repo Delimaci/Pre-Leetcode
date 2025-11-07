@@ -8,12 +8,16 @@ Welcome to **Dungeon LeetCode**, a series of beginner Python exercises designed 
 
 ## 📑 Table of Contents
 
-1. [FizzBuzz Dungeon Map](#fizzbuzz-dungeon-map)
-2. [Score of a String Dungeon Map](#score-of-a-string-dungeon-map)
-3. [Palindrome Number](#palindrome-number)
-4. [How to Play](#how-to-play)
+| Level | Name                                                            | Difficulty | Status  |
+| ----- | --------------------------------------------------------------- | ---------- | ------- |
+| 1     | [FizzBuzz Dungeon Map](#fizzbuzz-dungeon-map)                   | Easy       | Open ⚔️ |
+| 2     | [Score of a String Dungeon Map](#score-of-a-string-dungeon-map) | Easy       | Open ⚔️ |
+| 3     | [Palindrome Number](#palindrome-number)                         | Easy       | Open ⚔️ |
+|       | [How to Play](#how-to-play)                                     |            |         |
 
 ---
+
+<a name="fizzbuzz-dungeon-map"></a>
 
 ## 🗺️ FizzBuzz Dungeon Map
 
@@ -32,6 +36,8 @@ Welcome to **Dungeon LeetCode**, a series of beginner Python exercises designed 
 
 ---
 
+<a name="score-of-a-string-dungeon-map"></a>
+
 ## 🗺️ Score of a String Dungeon Map
 
 | Dungeon    | Concept              | Status  |
@@ -48,6 +54,8 @@ Welcome to **Dungeon LeetCode**, a series of beginner Python exercises designed 
 | Dungeon 10 | Boss Fight — SOAS    | Open ⚔️ |
 
 ---
+
+<a name="palindrome-number"></a>
 
 ## 🗺️ Palindrome Number
 
@@ -82,15 +90,15 @@ Welcome to **Dungeon LeetCode**, a series of beginner Python exercises designed 
 1. Clone the repository:
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/Delimaci/Pre-Leetcode
 ```
 
 2. Open a terminal and navigate to the dungeon folder you want to play.
 
-Run the Python file:
+Run the Python file, e.g. for Fizzbuzz first dungeon, run:
 
 ```
-python3 dungeon1.py
+python3 1-count.py
 ```
 
 Follow the prompts, defeat the dungeon, and level up!
