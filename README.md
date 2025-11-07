@@ -57,6 +57,26 @@ Welcome to **Dungeon LeetCode**, a series of beginner Python exercises designed 
 
 ---
 
+## 🗺️ To Lower Case
+
+| Dungeon   | Concept           | Status  |
+| --------- | ----------------- | ------- |
+| Dungeon 1 | String conversion | Open ⚔️ |
+
+> Given a string `s`, convert all uppercase letters to lowercase.
+
+---
+
+## 🗺️ Add Two Integers
+
+| Dungeon   | Concept    | Status  |
+| --------- | ---------- | ------- |
+| Dungeon 1 | Basic math | Open ⚔️ |
+
+> Given two integers `num1` and `num2`, return their sum.
+
+---
+
 ## 📖 How to Play
 
 1. Clone the repository:
